@@ -20,7 +20,7 @@ Implementation of the chain stack. Own method
 
 ---
 
-##main.c
+## main.c
 
 ```c++
 #include"Stack_my.h"
@@ -50,7 +50,7 @@ int main()
 
 ```
 
-##stack_my.h
+## stack_my.h
 
 ```c++
 #pragma once
