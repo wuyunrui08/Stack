@@ -12,11 +12,11 @@ Implementation of the chain stack. Own method
 
 ####图示：
 
-![photo1][photo1]
+![photo1](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183826996-1385644670.png)
 
-![photo2][photo2]
+![photo2](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183842259-742773517.png)
 
-![photo3][photo3]
+![photo3](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183854268-1425024115.png)
 
 ---
 
@@ -190,10 +190,3 @@ inline int Stack_my<T>::Len()
 
 ---
 
- [photo1] :https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183826996-1385644670.png
-
-
- [photo2] :https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183842259-742773517.png
-
-
- [photo3] :https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183854268-1425024115.png
