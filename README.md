@@ -10,7 +10,7 @@ Implementation of the chain stack. Own method
 
 ---
 
-####图示：
+#### 图示：
 
 ![photo1](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183826996-1385644670.png)
 
