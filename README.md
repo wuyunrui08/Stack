@@ -5,18 +5,18 @@ Implementation of the chain stack. Own method
 
 ---
 
-- 栈可谓是一种简单的数据结构，在 C++ 有库函数可以调用 ``#include<stack>`` 我们也可以亲手写一个链栈。链栈的实现形式是通过链表来储存，使用单向链表，使用头插法，头的位置称之为栈顶，其尾部的位置成为栈底。
+- 栈可谓是一种简单据结构，在 C++ 有库函数可以调用 ``#include<stack>`` 我们也可以亲手写一个链栈。链栈的实现形式是通过链表来储存，使用单向链表，使用头插法，头的位置称之为栈顶，其尾部的位置成为栈底。
 - 栈的操作有 **进栈** ，**出栈**，**判空**，**访问栈顶** 等操作。自己写栈的结构可以添加自己需要的操作
 
 ---
 
 #### 图示：
 
-![photo1](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183826996-1385644670.png)
+![photo1](./stackPhotos/photo1.png)
 
-![photo2](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183842259-742773517.png)
+![photo2](./stackPhotos/photo2.png)
 
-![photo3](https://img2018.cnblogs.com/blog/1723659/201910/1723659-20191024183854268-1425024115.png)
+![photo3](./stackPhotos/photo3.png)
 
 ---
 
